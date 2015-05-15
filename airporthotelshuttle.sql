@@ -1,18 +1,4 @@
-/*
-Navicat MySQL Data Transfer
-
-Source Server         : mysql
-Source Server Version : 50022
-Source Host           : localhost:3306
-Source Database       : airporthotelshuttle
-
-Target Server Type    : MYSQL
-Target Server Version : 50022
-File Encoding         : 65001
-
-Date: 2015-05-14 19:03:47
-*/
-
+﻿
 SET FOREIGN_KEY_CHECKS=0;
 
 -- ----------------------------
