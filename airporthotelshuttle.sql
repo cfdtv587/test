@@ -1,6 +1,6 @@
-/*
+﻿/*
 Navicat MySQL Data Transfer
-
+你好
 Source Server         : mysql
 Source Server Version : 50022
 Source Host           : localhost:3306
