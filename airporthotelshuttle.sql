@@ -1,3 +1,4 @@
+﻿
 ﻿/*
 Navicat MySQL Data Transfer
 你好
@@ -14,7 +15,7 @@ Date: 2015-05-14 19:03:47
 */
 
 SET FOREIGN_KEY_CHECKS=0;
-
+helloworld
 -- ----------------------------
 -- Table structure for `driver`
 -- ----------------------------
